@@ -27,7 +27,7 @@ learning about topics such as encryption and projectile motion through games.
 Each game is entirely independent from the others and includes comments along
 with a list of exercises to work through with students. Creativity and
 flexibility is important. There is no right or wrong way to implement a new
-feature or behavior! You never know which games students will engage with best.
+feature or behavior. You never know which games students will engage with best.
 
 .. _`Free Python Games`: http://www.grantjenks.com/docs/freegames/
 
